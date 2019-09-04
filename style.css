@@ -1,0 +1,15 @@
+
+table, td, th {
+    border-collapse: collapse;
+    padding: 15px;
+    vertical-align: bottom;
+    border: solid lightgrey
+}
+
+th {
+    color:#ffffff;
+    text-align: center;
+    background-color: #1a8c94;
+}
+
+
